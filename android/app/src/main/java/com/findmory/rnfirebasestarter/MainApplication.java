@@ -1,4 +1,4 @@
-package com.invertase.rnfirebasestarter;
+package com.findmory.googlephotoframe;
 
 import android.app.Application;
 
