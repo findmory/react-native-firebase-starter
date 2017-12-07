@@ -8,7 +8,7 @@ target 'GooglePhotoframe' do
   # Pods for GooglePhotoframe
 
   # Required by RNFirebase
-  pod 'Firebase/Core'
+  # pod 'Firebase/Core'
 
   # [OPTIONAL PODS] - comment out pods for firebase products you won't be using.
   # pod 'Firebase/AdMob'
