@@ -1,4 +1,4 @@
-# React Native Firebase Starter
+# React Native "Firebase" Starter
 
 <a href="https://rnfirebase.io">
 
@@ -15,11 +15,14 @@
 
 ---
 
-A basic react native app with
-[`react-native-firebase`](https://github.com/invertase/react-native-firebase)
-pre-integrated to get you started quickly.
+A basic react native app based off:
+[`react-native-firebase`](https://github.com/invertase/react-native-firebase) to
+get you started quickly.
 
-#### I added Mobx and react-navigation
+This doesn't have firebase pre-integrated but has the Pod framework setup to
+easily follow their instructions to add it or other Pod based frameworks.
+
+#### I also added Mobx and react-navigation
 
 ---
 
