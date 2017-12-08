@@ -1,4 +1,4 @@
-package com.findmory.googlephotoframe;
+package com.findmory.reactnativestarter;
 
 import android.app.Application;
 

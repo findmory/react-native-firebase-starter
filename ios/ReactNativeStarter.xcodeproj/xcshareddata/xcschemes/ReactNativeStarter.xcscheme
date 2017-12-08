@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "GooglePhotoframe.app"
-               BlueprintName = "GooglePhotoframe"
-               ReferencedContainer = "container:GooglePhotoframe.xcodeproj">
+               BuildableName = "ReactNativeStarter.app"
+               BlueprintName = "ReactNativeStarter"
+               ReferencedContainer = "container:ReactNativeStarter.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "GooglePhotoframeTests.xctest"
-               BlueprintName = "GooglePhotoframeTests"
-               ReferencedContainer = "container:GooglePhotoframe.xcodeproj">
+               BuildableName = "ReactNativeStarterTests.xctest"
+               BlueprintName = "ReactNativeStarterTests"
+               ReferencedContainer = "container:ReactNativeStarter.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -62,9 +62,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "GooglePhotoframeTests.xctest"
-               BlueprintName = "GooglePhotoframeTests"
-               ReferencedContainer = "container:GooglePhotoframe.xcodeproj">
+               BuildableName = "ReactNativeStarterTests.xctest"
+               BlueprintName = "ReactNativeStarterTests"
+               ReferencedContainer = "container:ReactNativeStarter.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "GooglePhotoframe.app"
-            BlueprintName = "GooglePhotoframe"
-            ReferencedContainer = "container:GooglePhotoframe.xcodeproj">
+            BuildableName = "ReactNativeStarter.app"
+            BlueprintName = "ReactNativeStarter"
+            ReferencedContainer = "container:ReactNativeStarter.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -96,9 +96,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "GooglePhotoframe.app"
-            BlueprintName = "GooglePhotoframe"
-            ReferencedContainer = "container:GooglePhotoframe.xcodeproj">
+            BuildableName = "ReactNativeStarter.app"
+            BlueprintName = "ReactNativeStarter"
+            ReferencedContainer = "container:ReactNativeStarter.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -115,9 +115,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "GooglePhotoframe.app"
-            BlueprintName = "GooglePhotoframe"
-            ReferencedContainer = "container:GooglePhotoframe.xcodeproj">
+            BuildableName = "ReactNativeStarter.app"
+            BlueprintName = "ReactNativeStarter"
+            ReferencedContainer = "container:ReactNativeStarter.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
