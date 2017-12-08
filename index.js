@@ -1,3 +1,3 @@
-import { AppRegistry } from 'react-native';
-import App from './App';
-AppRegistry.registerComponent('GooglePhotoframe', () => App);
+import { AppRegistry } from "react-native";
+import Nav from "./Nav";
+AppRegistry.registerComponent("GooglePhotoframe", () => Nav);
