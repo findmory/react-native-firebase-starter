@@ -83,7 +83,7 @@ If all has gone well you'll see an initial screen like the one below.
 
 ## Screenshots
 
-![preview](https://i.imgur.com/c8f4GFf.png)
+![preview](https://i.imgur.com/lhXsbQp.png)
 
 ## React Native Debugger
 
